@@ -1,0 +1,6 @@
+ctransformer==0.2.5 #to load the quantized model
+sentence-transformer==2.2.2 #to load embedding model from huggingface
+pinecone-client
+langchain==0.0.225
+flask
+
